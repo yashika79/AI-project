@@ -1,0 +1,12 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/university_event_planner/venv/Scripts/python.exe",
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/university_event_planner",
+    "${workspaceFolder}/university_event_planner/venv/Lib/site-packages"
+  ],
+  "python.testing.pytestEnabled": true,
+  "python.testing.pytestArgs": [
+    "university_event_planner/tests"
+  ]
+}
+
